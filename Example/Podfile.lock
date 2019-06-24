@@ -1,0 +1,16 @@
+PODS:
+  - ZBFancyTableView (0.1.0)
+
+DEPENDENCIES:
+  - ZBFancyTableView (from `../`)
+
+EXTERNAL SOURCES:
+  ZBFancyTableView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZBFancyTableView: 004328e7c220c62fd83ebf3dc72b87a2d6fb5c35
+
+PODFILE CHECKSUM: e084b0e862b40b01513e999f085a3993296d38e3
+
+COCOAPODS: 1.5.3

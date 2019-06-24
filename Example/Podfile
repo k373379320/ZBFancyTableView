@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ZBFancyTableView_Example' do
+  pod 'ZBFancyTableView', :path => '../'
+
+  target 'ZBFancyTableView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
