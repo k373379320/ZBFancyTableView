@@ -1,7 +1,7 @@
 #
 Pod::Spec.new do |s|
   s.name = 'ZBFancyTableView'
-  s.version = '0.0.5'
+  s.version = '1.0.1'
   s.summary = 'A delightful iOS ZBFancyTableView framework.'
   s.homepage = 'https://github.com/k373379320/ZBFancyTableView'
   s.license = { :type => 'MIT', :file => 'LICENSE' }
